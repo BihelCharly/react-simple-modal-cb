@@ -1,19 +1,16 @@
-name: "🚀 publish"
-
 on: push
+
 jobs:
   publish:
     name: 🚀 publish
     runs-on: ubuntu-latest
     steps:
-      - name: 📚 checkout
-        uses: actions/checkout@v1
-      - name: 🟢 node
-        uses: actions/setup-node@v1.4.2
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: 10
-          registry-url: https://registry.npmjs.org
       - run: npm install
+      - run: npm test
       - name: 🚀 publish
         run: npm publish --access public
       - uses: JS-DevTools/npm-publish@v1
