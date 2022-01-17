@@ -1,7 +1,7 @@
 {
   "name": "react-simple-modal-p14",
-  "version": "1.0.3",
-  "description": "A simple react hook component to display a modal with text",
+  "version": "1.0.5",
+  "description": "A simple react hook component to display a modal with some text",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -32,5 +32,11 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
+    "keywords": [
+      "react",
+      "hook",
+      "modal",
+      "npm"
+    ],
   "homepage": "https://github.com/BihelCharly/react-simple-modal-p14"
 }
