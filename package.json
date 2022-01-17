@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-modal-p14",
-  "version": "1.0.5",
-  "description": "A simple react hook component to display a modal with some text",
+  "name": "react-simple-modal-cb",
+  "version": "1.0.0",
+  "description": "A simple component using React Hooks to display a modal with some text and a close button",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -38,5 +38,5 @@
       "modal",
       "npm"
     ],
-  "homepage": "https://github.com/BihelCharly/react-simple-modal-p14"
+  "homepage": "https://github.com/BihelCharly/react-simple-modal-cb"
 }
