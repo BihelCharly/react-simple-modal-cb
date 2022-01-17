@@ -1,6 +1,6 @@
 {
   "name": "react-simple-modal-cb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple component using React Hooks to display a modal with some text and a close button",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
