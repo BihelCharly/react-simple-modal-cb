@@ -1,4 +1,4 @@
-# react-simple-modal-p14
+# react-simple-modal-cb
 
 Here is the first NPM package I built and I made it for my OpenClassroom's course.
 
