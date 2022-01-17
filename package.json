@@ -1,6 +1,6 @@
 {
   "name": "react-simple-modal-cb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple component using React Hooks to display a modal with some text and a close button",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -32,11 +32,11 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-    "keywords": [
-      "react",
-      "hook",
-      "modal",
-      "npm"
-    ],
+  "keywords": [
+    "react",
+    "hook",
+    "modal",
+    "npm"
+  ],
   "homepage": "https://github.com/BihelCharly/react-simple-modal-cb"
 }
