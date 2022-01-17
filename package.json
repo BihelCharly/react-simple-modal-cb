@@ -6,7 +6,6 @@
   "module": "dist/index.es.js",
   "scripts": {
     "build-lib-roll": "rollup -c",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -32,5 +31,6 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "homepage": "https://github.com/BihelCharly/react-simple-modal-p14"
 }
