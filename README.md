@@ -25,4 +25,4 @@ Here is an exemple followed by the confiiguration steps to add this package into
 
 ## License
 
-MIT © [CB23](https://github.com/BihelCharly/react-simple-modal-p14)
+MIT © [CB23](https://github.com/BihelCharly/react-simple-modal-cb)
