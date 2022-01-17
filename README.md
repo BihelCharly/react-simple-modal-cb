@@ -1,6 +1,6 @@
 # react-simple-modal-cb
 
-Here is the first NPM package I built and I made it for my OpenClassroom's course.
+Here is the first ![NPM Package](https://www.npmjs.com/package/react-simple-modal-cb) I built and I made it for my OpenClassroom's course.
 
 I developped a simple modal to display some customizable text with a close button on it.
 
